@@ -1,0 +1,36 @@
+/* ----------------------------------------------------------------------
+    @@@ Général
+---------------------------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Blinker:wght@100;200;300;400;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&family=Blinker:wght@100;200;300;400;600;700;800;900&display=swap');
+body {
+    background-color:#bdaba0;
+    font-family: 'Open Sans', sans-serif;
+    margin: 5;
+}
+h3 {
+    font-family: 'Blinker', sans-serif;
+}
+h1 {
+    font-family: 'Beth Ellen', cursive;
+}
+/* ----------------------------------------------------------------------
+    @@@ Barre info contact gauche
+---------------------------------------------------------------------- */
+.left-side {
+    width: 450px;
+    background: #e8c1c1;
+    color: #fff;
+}
+.h3 {
+    display: flex;
+    align-content: center;
+}
+/* ----------------------------------------------------------------------
+    @@@ Footer
+---------------------------------------------------------------------- */
+footer {
+    background: #aca3a3;
+    color: #fff;
+}
